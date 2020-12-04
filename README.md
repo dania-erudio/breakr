@@ -1,2 +1,2 @@
 # breakr
-Export of a game I made.
+Export of a breakout game I made.
